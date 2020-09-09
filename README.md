@@ -1,3 +1,3 @@
 # Image-Detection
 
-First attemp to use OpenCV to detect my face
+First attempt to use OpenCV to detect my face
